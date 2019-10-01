@@ -1,4 +1,6 @@
 # Tarea_3
+#claudio palominos#
+
 
 Pregunta 1:
 al remplazar el 5 por un 0, no me da ningun valor, debido a que el 0 no tiene ningun valor dentro de la lista.
@@ -26,5 +28,12 @@ me creo una secuencia del 1 al 100, donde "i" es la variable y se corre desde el
 pregunta 7: 
 ahora reemplazo la variable "i" con los numeros que corresponden a la lista de numeros, definiendola entre los numeros que poseen a la lista y mostrandome la secuencia de numeros segun los datos de la lista.
 
-pregunta 8:
+pregunta 8:esta es la funcion que nos muestra si un numero de la lista es par o impar: for(i in listaDeNumeros){
+   print(i)
+  if(i%%2==0){
+   print("par")
+} else {
+    print("impar")}
+  }
 
+pregunta 9:

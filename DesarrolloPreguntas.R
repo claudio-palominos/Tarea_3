@@ -42,14 +42,22 @@ for(i in listaDeNumeros){
   print(paste("cuento ",i," misisipis"))
 }
 
-#pregunta 8
+#ejercicio 8
 4%%2
 5%%2
-#for(i in listaDeNumeros){
-#print(i){
-  #if(i%%2==0) 
-#print("par")
-#} else {
- #   print("impar")}
-  #}
+for(i in listaDeNumeros){
+   print(i)
+  if(i%%2==0){
+   print("par")
+} else {
+    print("impar")}
+  }
+
+#ejercicio 9
+padron<-1000
+
+
+
+
+
 
